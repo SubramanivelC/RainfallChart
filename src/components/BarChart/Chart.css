@@ -1,0 +1,17 @@
+.chart {
+	display: flex;
+	padding: 1rem;
+	border-radius: 5px;
+	background-color: lightskyblue;
+	text-align: center;
+	justify-content: space-around;
+	height: 20rem;
+}
+.title h1{
+	justify-content: center;
+	display: flex;
+	text-align: center;
+	background-color: lightcyan;
+	padding: 1rem;
+	margin: 0;
+}
